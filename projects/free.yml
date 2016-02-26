@@ -88,6 +88,8 @@ categories:
           url: https://github.com/daimajia/AndroidViewAnimations
         - name: TransitionsBackport
           url: https://github.com/guerwan/TransitionsBackport
+        - name: AndroidViewController
+          url: https://github.com/JA-VON/Android-View-Controller
 
     - name: Architecture
       projects:
@@ -1235,7 +1237,7 @@ categories:
       projects:
         - name: AndroidPinning
           url: https://github.com/moxie0/AndroidPinning
-        - name: AndroidTampering 
+        - name: AndroidTampering
           url: https://github.com/SandroMachado/AndroidTampering
         - name: Conceal
           url: http://facebook.github.io/conceal
